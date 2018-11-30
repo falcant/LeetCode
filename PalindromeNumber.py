@@ -44,6 +44,7 @@ class Solution:
  #UNCOMMENT THIS  IF YOU WISH TO TEST        
 """
 test = Solution()
+Three Different cases:
 x = -123
 y = 101
 z = 10021
