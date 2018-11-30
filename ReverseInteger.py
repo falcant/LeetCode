@@ -67,6 +67,6 @@ class Solution:
 
 """ UNCOMMENT THIS  IF YOU WISH TO TEST        
 test = Solution()
-x = -123
-print(test.reverse(x))
+m = -123
+print(test.reverse(m))
 """
