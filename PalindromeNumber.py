@@ -40,3 +40,14 @@ class Solution:
             return False
         else:
             return True
+        
+ #UNCOMMENT THIS  IF YOU WISH TO TEST        
+"""
+test = Solution()
+x = -123
+y = 101
+z = 10021
+print(test.isPalindrome(x))
+print(test.isPalindrome(y))
+print(test.isPalindrome(z))
+"""
